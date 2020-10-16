@@ -146,6 +146,11 @@ cannot modify the attributes value, rendering them largely useless.
 
 =back
 
+If these are issues for you, consider L<Sub::HandlesVia>, which uses a
+different architecture, respecting triggers and coercions, and allowing
+read-write access to non-reference values. It should be possible to use
+Sub::HandlesVia as a drop-in replacement for MooX::HandlesVia.
+
 =head1 PROVIDED INTERFACE/FUNCTIONS
 
 =over 4
@@ -197,6 +202,8 @@ L<Data::Perl>:
 =item * L<Moo>
 
 =item * L<MooX::late>
+
+=item * L<Sub::HandlesVia>
 
 =back
 
