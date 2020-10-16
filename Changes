@@ -1,4 +1,7 @@
 {{$NEXT}}
+  - new maintainer (@mattp -> @tobyink)
+  - update repo links
+  - mention Sub::HandlesVia in documentation
 
 0.001008  2015-03-30 21:33:17-04:00 America/New_York
   - fix a bug inheriting from nonmoo classes
