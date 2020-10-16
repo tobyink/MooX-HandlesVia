@@ -200,4 +200,8 @@ L<Data::Perl>:
 
 =back
 
+=head1 ORIGINAL AUTHOR
+
+Matthew Phillips <mattp@cpan.org>
+
 =cut
